@@ -470,13 +470,14 @@ If you use this code, please cite the accompanying manuscript:
 > Rutgers University, New Brunswick.
 
 ```bibtex
-@unpublished{ke2026distributional,
-  title       = {Distributional Balancing with Machine Learning for Clinical
-                 Trial Augmentation Using Real-World Data},
-  author      = {Ke, Zern and Cui, Mingshi and Moran, Gemma and Cabrera, Javier},
-  year        = {2026},
-  institution = {Department of Statistics, Rutgers University, New Brunswick},
-  note        = {Manuscript in preparation}
+@misc{ke2026distributionalbalancingmachinelearning,
+      title={Distributional Balancing with Machine Learning for Clinical Trial Augmentation Using Real-World Data}, 
+      author={Zern Ke and Mingshi Cui and Gemma Moran and Javier Cabrera},
+      year={2026},
+      eprint={2609.23524},
+      archivePrefix={arXiv},
+      primaryClass={stat.ME},
+      url={https://arxiv.org/abs/2609.23524}, 
 }
 ```
 
